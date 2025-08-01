@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #  **TalentScout Hiring Assistant**
 
 ## **Project Overview**
@@ -542,4 +541,5 @@ This project is created for educational and demonstration purposes as part of an
 For questions or support regarding this project, please refer to the assignment guidelines or contact the development team.
 
 ---
+
 >>>>>>> a431973a36876c8ecd0f0f8a507c1f34b563384c
